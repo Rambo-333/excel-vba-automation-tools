@@ -1,0 +1,29 @@
+# Excelバックアップファイル
+~$*.xls*
+*.tmp
+
+# Excelロックファイル
+*.laccdb
+
+# 機密データ
+*_実データ*.xls*
+*_本番*.xls*
+
+# OS生成ファイル
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE設定
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Analysis output files
+vba_analysis_*.txt
+analyze_vba.py
+analyze_vba_fixed.py
