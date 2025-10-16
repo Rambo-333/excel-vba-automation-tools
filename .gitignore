@@ -27,3 +27,8 @@ __pycache__/
 vba_analysis_*.txt
 analyze_vba.py
 analyze_vba_fixed.py
+*.backup
+vba_sanitized_check.txt
+sanitize_vba.py
+分析レポート.md
+サニタイゼーション報告書.md
